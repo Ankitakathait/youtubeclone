@@ -1,0 +1,55 @@
+.logo{
+    width: 100%;
+    height: 100%;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid #eee;
+}
+.search{
+    width: 96%;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 12px;
+    font-size: 16px;
+    outline: none;
+}
+.button{
+    border-radius: 45%;
+    padding: 15px 20px;
+    background-color: #EEE;
+    border: 0px;
+}
+.btn{
+     display: flex;
+}
+.btn div{
+    margin-right:15px;
+    white-space: nowrap;
+}
+.button:hover{
+    background-color: rgb(247, 239, 239);
+}
+.btn1:hover{
+    background-color: #eee;
+}
+.leftframe{
+    align-items: center;
+    font-size: 15px;
+    padding: 2px 2px;
+    text-align: center;
+    margin-top:20px;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #eee;
+    height: 100vh;
+}
+
+.btn1
+{
+   margin-bottom: 25px;
+   width: 100%;
+   padding: 10px 5px;
+}
